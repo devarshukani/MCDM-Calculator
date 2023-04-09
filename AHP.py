@@ -1,7 +1,7 @@
-import streamlit as st
+import streamlit as st  #For build and share web apps
 import numpy as np
 import pandas as pd
-import matplotlib.pyplot as plt
+import matplotlib.pyplot as plt #For graphical comparison and analysis
 
 
 @st.cache_data
