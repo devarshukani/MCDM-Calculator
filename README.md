@@ -1,6 +1,8 @@
 # AHP Calculator
 
 The AHP calculator is a tool that uses the Analytic Hierarchy Process to assist in making complex decisions by providing a structured framework for weighing multiple factors and considering their relative importance.
+
+We have made improvements and integrated Large Language Model for value recomendations [here](https://github.com/sukhmeetbawa/Awesome-AHP) is the github repository for that project
  
 ## Getting Started
 1) make sure all the libraries are installed mentioned in `requirements.txt`
